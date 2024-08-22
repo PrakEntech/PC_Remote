@@ -32,6 +32,13 @@ Before you can use the PC Remote app, ensure you have the following:
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device.
 
+## Screenshots
+
+![PC Remote Screenshot 1](assets/screenshot_1.jpeg)
+
+![PC Remote Screenshot 2](assets/screenshot_2.jpeg)
+
+
 ## Usage
 
 1. Open the PC Remote app on your Android device.
