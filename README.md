@@ -19,8 +19,8 @@ PC Remote is an Android application that allows you to control your computer rem
 
 Before you can use the PC Remote app, ensure you have the following:
 
-- **PC Remote Server:** Download the [PC Remote Server](https://github.com/PrakEntech/PC_Remote/tree/main/Web%20Server%20(Flask)) and setup a server on [PythonAnywhere]((https://pythonanywhere.com)).
-- **PC Remote Client:** Download and install the PC Remote Server on your computer from [GitHub]([https://github.com/PrakEntech/PC_Remote_Server](https://github.com/PrakEntech/PC_Remote/tree/main/Client)).
+- **PC Remote Server:** Download the [PC Remote Server](https://github.com/PrakEntech/PC_Remote/tree/main/Web%20Server%20Flask) and setup a server on [PythonAnywhere](https://pythonanywhere.com).
+- **PC Remote Client:** Download and install the PC Remote Server on your computer from [GitHub](https://github.com/PrakEntech/PC_Remote/tree/main/Client).
 - **Wi-Fi Connection:** Both your PC and smartphone must be connected to a Wi-Fi network.
 
 ## Installation
