@@ -34,10 +34,8 @@ Before you can use the PC Remote app, ensure you have the following:
 
 ## Screenshots
 
-![PC Remote Screenshot 1](screenshot_1.jpeg)
-
-![PC Remote Screenshot 2](screenshot_2.jpeg)
-
+<img src="screenshot_1.jpeg" alt="App Screenshot 1" height="400"/>
+<img src="screenshot_2.jpeg" alt="App Screenshot 2" height="400"/>
 
 ## Usage
 
